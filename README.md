@@ -33,7 +33,7 @@ It was developed as part of a **Data Science program**, focusing on applying Pyt
 ## 📊 Key Insights
 - Identified trends and anomalies related to aircraft types, locations, and causes of incidents.  
 - Engineered new features to represent **incident severity**, **operator type**, and **environmental conditions**.  
-- Discovered potential correlations between **flight phases** and **incident outcomes**.
+
 
 ---
 
